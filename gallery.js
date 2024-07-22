@@ -46,9 +46,9 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "박성권 ♥ 최은비의 모바일 청첩장",
+        title: "왕건우 ♥ 최은비의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/vnPHLvr.png",
+        imageUrl: "https://i.imgur.com/mnQn8vU.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
